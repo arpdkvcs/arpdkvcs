@@ -1,5 +1,5 @@
 # Hi there 👋
-### This is **arpdkvcs**'s personal repository.
+### I am currently finishing my studies at Codecool as a Full Stack Developer (Test Automation).
 
 
 
